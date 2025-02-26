@@ -1,5 +1,3 @@
-- guru99_automationProject
-Automated testing of Guru99 Bank login functionality using Python, Selenium, Pytest, and Allure Framework
 - Guru99 Bank Login Automation
 
 This project automates the testing of the Guru99 Bank login functionality using **Selenium**, **Pytest**, and **Allure Framework**.
@@ -15,3 +13,8 @@ This project automates the testing of the Guru99 Bank login functionality using 
 - Pytest
 - WebDriver Manager
 - Allure Framework
+
+3 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PrueOyen/guru99_automationProject.git
